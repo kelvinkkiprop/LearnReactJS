@@ -1,0 +1,24 @@
+What is React?
+- It's a library for building user interfaces.
+- React runs on the client as a SPA(Single Page App), but can be used to build full stack apps by communicating with server via an API e.g. MERN stack.
+- It's often referred to as a front-end "framework" because it's comperable to a framework such as Angular or Vue, but it's realy a library.
+
+Why Use React?
+i. Reusable components
+ii. Allow structuring of your app "View" layer
+iii. JSX (JavaScript Syntax Extension) - Dynamic markup
+iv. Interactive UIs with Virtual DOM
+v. Performance and testing
+vi. Very popular in the industry
+
+UI Components
+- Include a bunch of separate components i.e. Functions and classes
+- Components render/return JSX and can also take in "props"
+
+Working with State
+- Components can have "state" which is an object that determines how a component renders and behaves.
+- "App" or "global"  state refers to state that is available to the entire UI, not jus a single component.
+
+1. COMMANDS
+a. Create App
+npx create-react-app learn-react-js
